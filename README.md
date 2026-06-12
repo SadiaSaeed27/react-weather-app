@@ -1,9 +1,6 @@
 # ⛅️ Weather App made with React
 
 
-![build](https://github.com/SadiaSaeed27/react-weather-app)
-
-
 ## About
 
 **Weather App** is a PWA built with **React** (ES6) and **Sass** to help you quickly check the weather for your current location or any searched IP. It supports offline use, runs installably like an app, and works with swipe gestures for easy browsing of hourly and daily forecasts—made as a learning project to explore modern front-end development concepts.
