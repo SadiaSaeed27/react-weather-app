@@ -1,7 +1,7 @@
 # ⛅️ Weather App made with React
 
 
-![build](https://github.com/SadiaSaeed27/react-weather-app/blob/main/)
+![build](https://github.com/SadiaSaeed27/react-weather-app)
 
 
 ## About
