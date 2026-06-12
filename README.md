@@ -2,8 +2,6 @@
 
 
 ![build](https://github.com/SadiaSaeed27/react-weather-app/workflows/build/badge.svg?branch=main)
-![deploy](https://github.com/SadiaSaeed27/react-weather-app/workflows/deploy/badge.svg?branch=main)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/8cd55ce66e034c44f03a/test_coverage)](https://codeclimate.com/github/SadiaSaeed27/react-weather-app/test_coverage)
 
 
 ## About
